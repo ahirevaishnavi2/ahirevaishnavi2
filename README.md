@@ -16,7 +16,7 @@
 - 🧠 Passionate about **Java Developement**, **ML**, **Mern stack developement**
 - 📫 Reach me via:
   - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](linkedin.com/in/ahirevaishnavi)
-  - [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahirevaishnavi82@gmail.com)
+  - [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](ahirevaishnavi82@gmail.com)
 
 ---
 
