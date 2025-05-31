@@ -1,7 +1,7 @@
 <!-- Profile README: ahirevaishnavi2 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi+Ahire!;AI+Engineer+%F0%9F%92%BB;ML+Scholar+%7C+Cloud+Certified+%E2%98%81%EF%B8%8F;Passionate+about+AI+%26+Skill+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi+Ahire!;Software+Engineer+%F0%9F%92%BB;Reliance Scholar+%7C+Bny career catalyst mentee +%E2%98%81%EF%B8%8F;Passionate+about+AI+%26+Skill+Development" alt="Typing SVG" />
 </h1>
 
 ---
