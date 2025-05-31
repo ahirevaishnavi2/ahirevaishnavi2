@@ -1,7 +1,8 @@
 <!-- Profile README: ahirevaishnavi2 -->
 
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi+Ahire!;Software+Engineer+%F0%9F%92%BB;Reliance Scholar+%7C+Bny career catalyst mentee +%E2%98%81%EF%B8%8F;Passionate+about+AI+%26+Skill+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vaishnavi+Ahire!;Software+Engineer+%F0%9F%92%BB;Code+to+Give+Finalist+2025+%F0%9F%8F%86;BNY+Career+Catalyst+Mentee+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 ---
@@ -9,10 +10,10 @@
 ### 👩‍💻 About Me
 
 - 🪄 **Software Engineer** | 💡 Problem Solver | 🛠️ Tech Enthusiast
-- 🎓 ** MKSSS'S Cummins College Of Engineering For Womens**
+- 🎓 **MKSSS'S Cummins College Of Engineering For Womens**
 - 🎯 **Specialization**: BTech in Computer Science and Engineering 
 - 🌟 **Microsoft Learn Student Ambassador (Alpha Grade)**
-- 🧠 Passionate about **Java Developement **, **ML**, **Mern stack developement**
+- 🧠 Passionate about **Java Developement**, **ML**, **Mern stack developement**
 - 📫 Reach me via:
   - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](linkedin.com/in/ahirevaishnavi)
   - [![Email](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ahirevaishnavi82@gmail.com)
@@ -25,7 +26,7 @@
 - 🎓 **Bny Career Catalyst Mentee** (2025)
 - 🎓 **Reliance Foundation Scholar** (2023)
 - ☁️ **Katalyst Mentee'23**
-- 🧑‍🎓 **Microsoft Learn Student Ambassador ** 
+- 🧑‍🎓 **Microsoft Learn Student Ambassador** 
 
 ---
 
